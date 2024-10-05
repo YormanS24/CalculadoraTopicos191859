@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="subject">Materia</string>
+    <string name="ht">Horas Teóricas</string>
+    <string name="hp">Horas Práctica</string>
+    <string name="credit">Cantidad de créditos</string>
+    <string name="calculate">Calcular</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="trabajo_independiente">Tr. Independiente:</string>
+    <string name="horas_practicas">Horas practicas:</string>
+    <string name="horas_teoricas">Horas teoricas:</string>
+    <string name="Nombre_materia">Nombre Materia:</string>
+    <string name="credito_materia">Credito Materia:</string>
+    </resources>
